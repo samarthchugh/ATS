@@ -4,6 +4,10 @@ A smart and interactive ATS (Applicant Tracking System) Resume Analyzer built wi
 
 ---
 
+## Poster
+[Poster](images\Poster.png)
+[UI](images\UI.png)
+
 ## 📂 Project Structure
 
 <pre lang="markdown"> ```bash ats-resume-expert/ 
