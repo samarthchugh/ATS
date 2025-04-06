@@ -10,7 +10,7 @@ A smart and interactive ATS (Applicant Tracking System) Resume Analyzer built wi
 
 ## 📂 Project Structure
 
-<pre lang="markdown"> ```bash ats-resume-expert/ 
+<pre lang="markdown"> ``` ats-resume-expert/ 
 ├── .streamlit/ 
 │ └── config.toml # Theme & layout settings 
 ├── .env # API key (used locally) 
@@ -43,7 +43,7 @@ A smart and interactive ATS (Applicant Tracking System) Resume Analyzer built wi
 ---
 
 ## 🔧 Installation
-<pre lang='markdown'>```bash
+<pre lang='markdown'>```
 ### 1. Clone the repository
 
 git clone https://github.com/your-username/ats-resume-expert.git
@@ -62,7 +62,7 @@ streamlit run app.py
 ## ⚙️ Configuration
 You can customize the theme via **.streamlit/config.toml**
 <pre lang='markdown'>
-```bash
+```
 [theme]
 primaryColor = "#4CAF50"
 backgroundColor = "#F5F5F5"
@@ -75,7 +75,7 @@ font = "sans serif"
 ## 📦 Requirements
 Dependencies listed in **requirements.txt**:
 <pre lang='markdown'>
-```bash
+```
 streamlit>=1.30.0
 python-dotenv>=1.0.0
 PyPDF2>=3.0.1
