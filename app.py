@@ -19,6 +19,7 @@ st.markdown("---")
 st.sidebar.title("🔎 Navigation")
 option = st.sidebar.radio("Choose Action", ["Resume Analysis", "Improve Resume", "ATS Match"])
 
+
 # --- Functions ---
 def extract_text_from_pdf(uploaded_file):
     try:
