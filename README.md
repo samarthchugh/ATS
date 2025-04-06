@@ -84,7 +84,7 @@ google-generativeai>=0.3.2
 </pre>
 
 ## 🔗 Live Demo
-<!--  -->
+Check out the live app here:[Resume ATS Expert](https://resume-ats-expert.streamlit.app/)
 
 ## 📄 License
 MIT License. Feel free to use, share, and contribute.
