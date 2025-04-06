@@ -90,8 +90,8 @@ Check out the live app here:[Resume ATS Expert](https://resume-ats-expert.stream
 MIT License. Feel free to use, share, and contribute.
 
 ## 🙌 Acknowledgements
-[Google Gemini API](https://aistudio.google.com/app/apikey)
-[Streamlit](https://streamlit.io/)
+1. [Google Gemini API](https://aistudio.google.com/app/apikey)
+2. [Streamlit](https://streamlit.io/)
 
 ## 📬 Contact
 Made with ❤️ by [Samarth Chugh](www.linkedin.com/in/-samarthchugh)
