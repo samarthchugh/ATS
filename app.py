@@ -102,3 +102,4 @@ st.markdown(
     "<p style='text-align: center; color: grey;'>Made with ❤️ by Samarth Chugh, Neeraj Gupta, Shubham Kotnala | Powered by Gemini API</p>",
     unsafe_allow_html=True
 )
+# project done by samarth chugh, neeraj gupta, shubham kotnala
