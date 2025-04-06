@@ -5,8 +5,8 @@ A smart and interactive ATS (Applicant Tracking System) Resume Analyzer built wi
 ---
 
 ## Poster
-![Poster](https://raw.githubusercontent.com/samarthchugh/ATS/main/assets/poster.png)
-![Poster](https://raw.githubusercontent.com/samarthchugh/ATS/main/assets/UI.png)
+![Poster](./images/Poster.png)
+![Poster](./images/UI.png)
 
 ## 📂 Project Structure
 
